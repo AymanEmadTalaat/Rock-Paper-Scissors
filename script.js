@@ -2,9 +2,6 @@ let choice = ["Rock", "Paper", "Scissors"];
 let randomChoice;
 let humanChoice = "";
 
-let humanScore = 0;
-let computerScore = 0;
-
 const img1 =
   "./toppng.com-rock-paper-scissors-png-clipart-rock-paper-scissors-784x670.png";
 const img2 = "./clipart4288822.png";
